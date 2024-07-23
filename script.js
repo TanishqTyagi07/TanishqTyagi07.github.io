@@ -26,7 +26,7 @@ filterButtons.forEach(button => {
 });
 
 function fetchGitHubProjects() {
-    fetch('https://api.github.com/users/yourusername/repos')
+    fetch('https://api.github.com/users/TanishqTyagi07/repos')
         .then(response => response.json())
         .then(data => {
             const projectsContainer = document.querySelector('#projects .row');
