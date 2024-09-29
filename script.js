@@ -26,6 +26,7 @@ filterButtons.forEach(button => {
 });
 
 const reposToDisplay = [
+    'United-States-Airlines-Analysis'
     'Healthcare-Cost-Prediction-and-Analysis-Project',
     'Sales_Comparison_by_Region_Tableau',
     'Cohorts_of_Songs',
